@@ -1,10 +1,13 @@
 # Bot_Fishing_playtogether
 bot v1
 
-[link download](https://drive.google.com/file/d/15x8CAnIucFGZfs2oZMRZ5EZM7aO8q4Pz/view?usp=sharing)
+[Link Download V1](https://drive.google.com/file/d/1TWoM_YVthrLu75EaRt4lbjHlEDH5Ajnu/view?usp=sharing)
 
-ภาษาในโปรแกรมยังบัคอยู่อ่านวิธีใช้ตามนี้ครับ
+ภาษาไทยในโปรแกรมยังบัคอยู่อ่านวิธีใช้ตามนี้ครับ
 
 วิธีใช้งาน
+- ตั้งชื่อ instance เป็น botfishing(!!ตั้งชื่ออื่นตัวโปรแกรมไม่ทำงานนะครับ)
+- โปรแกรมที่รองรับ Bluestack(ทดสอบแล้ว)  Nox(ยังไม่ทดสอบ)
+- ต้องอยู่ที่หน้าจอเกมอยู่ตลอด ห้ามคลิปไปที่โปรแกรมอื่นเด็ดขาด เพราะเมื่อเจอปลาโปรแกรมจะรันกดดึงปลา
 - กด R เพื่อเริ่ม/รีเซ็ตโปรแกรม
 - กด Q เพื่อหยุดโปรแกรม
