@@ -1,7 +1,7 @@
 # Bot_Fishing_playtogether
 bot v1
 
-[Link Download V1](https://drive.google.com/file/d/1TWoM_YVthrLu75EaRt4lbjHlEDH5Ajnu/view?usp=sharing)
+[Link Download V1](https://drive.google.com/file/d/1rPdeWou0hyco8mccWQtx5eJV53tFpbeK/view?usp=sharing)
 
 ภาษาไทยในโปรแกรมยังบัคอยู่อ่านวิธีใช้ตามนี้ครับ
 
